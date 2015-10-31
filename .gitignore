@@ -1,3 +1,4 @@
 # Paisan .gitignore file
 *.[ao]
 *~
+*.py~
